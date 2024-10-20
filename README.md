@@ -27,5 +27,5 @@ A continuación, se presenta una lista de los desafíos que he completado:
 Para ver los proyectos en acción, simplemente clona el repositorio y abre el archivo `index.html` en tu navegador:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Myrielt/Practica-Frontend.git
+cd Practica-Frontend
